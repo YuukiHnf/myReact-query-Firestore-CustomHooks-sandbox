@@ -11,13 +11,9 @@ import { ReactQueryDevtools } from "react-query/devtools";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBTEiYKZfi1vifzCxl6ZmZe5QZN40vnJso",
-  authDomain: "mycloudrunproject-348105.firebaseapp.com",
-  projectId: "mycloudrunproject-348105",
-  storageBucket: "mycloudrunproject-348105.appspot.com",
-  messagingSenderId: "814141392729",
-  appId: "1:814141392729:web:2012f34155d592e0986e48",
-  measurementId: "G-8ZT3R4BKD3"
+  apiKey: "....",
+  authDomain: "...",
+  "...."
 };
 
 // Initialize Firebase
